@@ -1,4 +1,5 @@
 # Unified thermal model for photohadronic neutrino production in astrophysical sources, v1
+## by Damiano F. G. Fiorillo, Arjen Van Vliet, Stefano Morisi and Walter Winter
 
 ## Description:
 This repository contains the neutrino fluxes from astrophysical sources within the thermal model reported in arXiv: . 
